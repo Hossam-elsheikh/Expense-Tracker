@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Expesnse-Tracker.git/static/css/main.ed2b3b2d.css",
-    "main.js": "/Expesnse-Tracker.git/static/js/main.71ce839f.js",
-    "static/js/899.4cb4cf28.chunk.js": "/Expesnse-Tracker.git/static/js/899.4cb4cf28.chunk.js",
-    "index.html": "/Expesnse-Tracker.git/index.html",
-    "main.ed2b3b2d.css.map": "/Expesnse-Tracker.git/static/css/main.ed2b3b2d.css.map",
-    "main.71ce839f.js.map": "/Expesnse-Tracker.git/static/js/main.71ce839f.js.map",
-    "899.4cb4cf28.chunk.js.map": "/Expesnse-Tracker.git/static/js/899.4cb4cf28.chunk.js.map"
+    "main.css": "/Expesnse-Tracker/static/css/main.ed2b3b2d.css",
+    "main.js": "/Expesnse-Tracker/static/js/main.e74fc5c4.js",
+    "static/js/899.4cb4cf28.chunk.js": "/Expesnse-Tracker/static/js/899.4cb4cf28.chunk.js",
+    "index.html": "/Expesnse-Tracker/index.html",
+    "main.ed2b3b2d.css.map": "/Expesnse-Tracker/static/css/main.ed2b3b2d.css.map",
+    "main.e74fc5c4.js.map": "/Expesnse-Tracker/static/js/main.e74fc5c4.js.map",
+    "899.4cb4cf28.chunk.js.map": "/Expesnse-Tracker/static/js/899.4cb4cf28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed2b3b2d.css",
-    "static/js/main.71ce839f.js"
+    "static/js/main.e74fc5c4.js"
   ]
 }
