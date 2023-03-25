@@ -1,0 +1,15 @@
+.chart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.total {
+    position: relative;
+    width: 100%;
+}
+.total h2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 1.2rem;
+}

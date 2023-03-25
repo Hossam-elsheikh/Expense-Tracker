@@ -1,0 +1,56 @@
+.expenses {
+  display: flex;
+  flex-direction: column-reverse;
+  gap:1rem;
+  width: 100%;
+}
+
+.expense {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  padding: .1rem;
+  border-radius: 10px;
+  opacity: 0%;
+  animation: showing 0.5s ease-in 0.3s forwards;
+  color: white;
+}
+
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.details h2,
+h3 {
+  font-size: .7rem;
+  margin: 0;
+  font-weight: normal;
+}
+.details h2 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.price {
+  font-size: 1.2rem;
+}
+
+@keyframes showing {
+  0% {
+    opacity: 0%;
+  }
+  25% {
+    opacity: 25%;
+  }
+  50% {
+    opacity: 50%;
+  }
+  75% {
+    opacity: 75%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}

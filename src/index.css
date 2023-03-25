@@ -1,0 +1,9 @@
+#root, body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background: linear-gradient(to top, #2d225fba, #904abecc), url(https://picsum.photos/1280/853/?random=1) no-repeat  ;
+    background-size: cover;
+}
