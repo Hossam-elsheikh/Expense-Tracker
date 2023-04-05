@@ -20,7 +20,7 @@ const Main = () => {
       <Form />
       {expenses.length > 0 && <Expenses />}
       {expenses.length > 0 ? (
-        <div>
+        <div className={classes.charts}>
           <ExpensesChart />
           <IncomeChart />
         </div>

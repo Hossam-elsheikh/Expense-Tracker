@@ -11,9 +11,6 @@
     justify-content: center;
     align-items: center;
     padding: 2rem;
-   
- 
-
 }
 .empty h1{
     color: white;
@@ -22,5 +19,9 @@
 @media (max-width:770px){
     .empty{
         display: none;
+    }
+    .charts {
+        width: 100%;
+        margin :0;
     }
 }

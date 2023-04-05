@@ -1,7 +1,7 @@
 .card{
     background-color: white;
     color: rgb(27, 27, 27);
-    padding: 1.5rem;
+    padding: 1.3rem;
     border-radius: 5px;
     width: 100%;
     box-shadow: 0px 0px 3px 0px gray;
@@ -24,6 +24,6 @@ h1{
 @media (max-width: 777px){
     .card{
         max-height: min-content;
-        width: 90%;
+        width: 85%;
     }
 }
