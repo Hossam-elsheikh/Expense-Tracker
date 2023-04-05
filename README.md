@@ -1,5 +1,4 @@
-# Expense-Tracker
+# Expense-Tracker [Live Demo](https://hossam-elsheikh.github.io/Expense-Tracker/)
 
-#### Live Demo https://hossam-elsheikh.github.io/Expense-Tracker/
-
-Created by Hossam Elsheikh >> Linkedin https://www.linkedin.com/in/hossam-elsheikh-5459a1166/
+### Screenshots
+![](https://github.com/Hossam-elsheikh/Expense-Tracker/blob/master/screenshots/Screenshot%20from%202023-04-05%2015-53-25.png)
